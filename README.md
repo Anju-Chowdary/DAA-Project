@@ -39,9 +39,7 @@ Every algorithm was tested on the same set of jobs and machines. Performance was
 
 Comparing these results provided insight into which type of algorithm works best in what type of condition, hence successfully choosing the best for optimizing job shop scheduling performance in a real-world environment.
 
-## few Screen Shorts of the output
 
-### Comparision graph
 
 
 
@@ -68,3 +66,15 @@ Comparing these results provided insight into which type of algorithm works best
 
 Paper Published for the above work
 ## **P, Anju Chowdary and Sri Hanish Kumar, Meka Sai and BG, Shresta and Mahithi Reddy, T. and Bindu Sree, Mandapati and Ramasamy, Gayathri, Optimizing Job Shop Scheduling: A Comparative Study of Metaheuristic Algorithms (November 15, 2024). Available at SSRN: https://ssrn.com/abstract=5091503 or http://dx.doi.org/10.2139/ssrn.5091503**
+
+
+
+
+
+
+## To use this:
+
+1. Download the ZIP file and extract it.
+2. Run `trail.py`.
+3. **Do not make any changes** to the directory or files inside the ZIP—keep the structure intact.
+4. Make sure to adjust the file paths in the code to match the locations on your machine.
